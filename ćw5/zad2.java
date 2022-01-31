@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
-public class zad2 {
-
-    public static void main(String[] args) {
+public class zad2 
+{
+    public static void main(String[] args) 
+    {
         /* zad.2 użyj parametru trójargumentowego aby sprawdzić parzystośc nr. indeksu */
         Scanner input = new Scanner(System.in);
 
