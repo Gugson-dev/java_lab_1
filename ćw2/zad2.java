@@ -1,12 +1,14 @@
-public class zad2 {
-
-    public static void main(String[] args) {
+public class zad2 
+{
+    public static void main(String[] args) 
+    {
         /*
         *    zad.2 Napisz kod który będzie wykonywał operacje: dodawania, odejmowania,
         *    mnożenia, dziealenia i modulo na zmiennych:
         *    a) liczbaA i liczbaB, dowolne liczby calkowite (int),
         *    b) liczbaX i liczbaY, dowolne liczby zmiennoprzecinkowe (double)
         */
+        
         int liczbaA = 3, liczbaB = 7;
         double liczbaX = 3.5, liczbaY = 1.5;
         

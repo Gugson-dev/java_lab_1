@@ -1,7 +1,10 @@
-public class zad1 {
-
-    public static void main(String[] args) {
-/*   zad.1 zadeklaruj i zainicjalizuj zmienne różnych typów i wyświetl w konsoli (im więcej tym lepiej ;) ) */
+public class zad1 
+{
+    public static void main(String[] args) 
+    {
+        /*   
+            zad.1 zadeklaruj i zainicjalizuj zmienne różnych typów i wyświetl w konsoli (im więcej tym lepiej ;) ) 
+        */
         int a = 1, b = 0 , c = -16;
         String elo = "siema", nara = "pa", witam = "dzień dobry";
         boolean tak = true, nie = false, moze = 5 > 4;
